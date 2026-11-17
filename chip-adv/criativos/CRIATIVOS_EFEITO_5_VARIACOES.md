@@ -33,7 +33,7 @@ Os 17 efeitos para citar na tela: 01 Troca de cenário · 02 Comparação lado a
 | Tempo | Fala | Tela |
 |---|---|---|
 | 0–4 s | "Esse vídeo tá cru. Olha como fica com um comando." | Gravação crua (efeito 15 antes) |
-| 4–10 s | "Digito barra efeito, escolho o três de tela dividida..." | `/efeito` + lista |
+| 4–10 s | "Digito barra efeito, escolho o treze, tela dividida animada..." | `/efeito` + lista |
 | 10–18 s | "...e pronto." | Resultado editado (efeito 15 depois) |
 | 18–23 s | "Toca em Saiba mais e faz no seu." | Cartão final |
 
